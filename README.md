@@ -1,4 +1,4 @@
-Dynamic Time-Based Bicycle Rental System (QBCore)
+Dynamic Time-Based Bicycle Rental System (QBCore) FIVEM
 Add Eco-Friendly Transportation Options and a New Income Source to Your Server.
 Introduce a fun and affordable mobility solution for your players with our bicycle rental system. Perfect for tourist areas, beaches, or parks, this resource is lightweight, easy to set up, and integrates seamlessly with the QBCore ecosystem.
 
@@ -21,7 +21,7 @@ qb-menu
 qb-input
 The ms_bikerental system is the perfect choice for adding a layer of realistic, functional, and engaging detail to your QBCore server!
 
-Revitsupp ITSupport · Revitsupp Bike Rental
+[Revitsupp ITSupport · Revitsupp Bike Rental](https://revitsupp.tebex.io/package/7080732)
 
 https://discord.gg/5TrRx5eseJ
 | Support | Yes |
