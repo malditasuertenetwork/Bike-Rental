@@ -28,5 +28,6 @@ https://discord.gg/5TrRx5eseJ
 | Code is accessible | No |
 | Requirements & dependencies | Requirements |
 
-Qb Menu
+Qb Menu<img width="1280" height="800" alt="Gemini_Generated_Image_un8gp2un8gp2un8g" src="https://github.com/user-attachments/assets/ada32870-29fe-4215-b0e3-65da2c4beb56" />
+
 Qb Input
